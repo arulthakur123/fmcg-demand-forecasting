@@ -79,12 +79,20 @@ Python libraries: `Pandas`, `Seaborn`, `Matplotlib`
 ![Promotion Impact](fig_promotion_impact.png)
 ---
 
-## ⏳ Time Series Forecasting (Next Steps)
+### 🔹 Monthly Sales Trend
 
-We will apply:
-- ARIMA or SARIMA models
-- Exponential Smoothing
-- Store-level demand forecasting
+Analyzed sales trends across months to identify seasonal patterns and demand cycles.
+
+![Monthly Sales Trend](fig_monthly_sales_trend.png)
+
+---
+
+🔹 Forecasting Future Demand with ARIMA
+
+Used ARIMA to model and predict future FMCG product demand across India. The model captured seasonality and trend based on historical sales data.
+
+![ARIMA Forecast](fmcg_forecast_arima.png)
+
 
 👉 Forecasting will help in **procurement**, **stock planning**, and **supplier management**.
 
