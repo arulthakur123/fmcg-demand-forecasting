@@ -1,4 +1,4 @@
-# 🛒 FMCG Demand Forecasting – India 🇮🇳
+# 🛒 FMCG Demand Forecasting 
 
 This project applies **time series forecasting**, **exploratory data analysis**, and **automated dashboard reporting** to analyze and forecast **FMCG product demand** across different regions in India.
 
