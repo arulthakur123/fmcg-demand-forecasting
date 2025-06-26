@@ -66,20 +66,17 @@ Python libraries: `Pandas`, `Seaborn`, `Matplotlib`
 
 ### 🔹 1. Sales by Product Category
 
-![Category Sales](category_sales.png)
-
----
+![Category Sales](fig_category_sales.png)
 
 ### 🔹 2. Sales by Store Location
 
-![Location Sales](location_sales.png)
+![Location Sales](fig_sales_by_location.png)
 
 ---
 
 ### 🔹 3. Impact of Promotions on Sales
 
-![Promotion Impact](promotion_sales.png)
-
+![Promotion Impact](fig_promotion_impact.png)
 ---
 
 ## ⏳ Time Series Forecasting (Next Steps)
